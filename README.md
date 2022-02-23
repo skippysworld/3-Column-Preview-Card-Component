@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Live Site URL: [Github Pages](https://skippysworld.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
 
