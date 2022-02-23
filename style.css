@@ -150,9 +150,9 @@ section a:hover {
 
   section {
     max-width: 33%;
-    min-width: 300px;
     padding: 3rem 3rem 4em 3rem;
     margin-top: 2.6rem;
+    align-self: stretch;
   }
 
   p {
