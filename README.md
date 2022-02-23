@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/is-this-3-column-preview-challenge-as-clean-as-possible-mKoOQTrrm#comment-62167475145c6a78f05d78d4)
 - Live Site URL: [Github Pages](https://skippysworld.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
